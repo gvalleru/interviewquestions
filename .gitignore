@@ -1,12 +1,4 @@
-# Created by .ignore support plugin (hsz.mobi)
-.idea/dictionaries/
-.idea/encodings.xml
-.idea/interviewquestions.iml
-.idea/libraries/
-.idea/misc.xml
-.idea/modules.xml
-.idea/workspace.xml
-venv/
+.idea
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
